@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Canada's national heritage, culture and conflict, and world heritage.
 
 interests:
 - Canada's National Heritage Institutions
