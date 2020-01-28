@@ -21,21 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Canada's National Heritage Institutions
+- Culture and Conflict
+- World Heritage
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Canadian Studies (Heritage Conservation)
+    institution: Carleton University
+    year: 2019-2021 (expected)
+  - course: BAH in History, minor in Art History
+    institution: Queen's University
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-My research areas include Canada's heritage institutions, culture and conflict, and world heritage. 
+I am a first year MA student at Carleton's School of Indigenous and Canadian studies, with a specialization in heritage conservation
