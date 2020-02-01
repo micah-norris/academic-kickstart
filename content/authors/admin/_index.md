@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Canada's national heritage, culture and conflict, and world heritage.
+bio: My research interests include Canada's national heritage policy, the intersection of culture and conflict, and the concept of world heritage.
 
 interests:
 - Canada's National Heritage Institutions
 - Culture and Conflict
+- Repatriation of Objects
 - World Heritage
 
 education:
@@ -30,7 +31,7 @@ education:
   - course: MA in Canadian Studies (Heritage Conservation)
     institution: Carleton University
     year: 2019-2021 (expected)
-  - course: BAH in History, minor in Art History
+  - course: BAH in History, Minor in Art History
     institution: Queen's University
     year: 2014-2018
 
@@ -64,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year MA student at Carleton's School of Indigenous and Canadian studies, with a specialization in heritage conservation
+Micah Norris is a first year MA student at Carleton's School of Indigenous and Canadian studies, with a specialization in heritage conservation. 
