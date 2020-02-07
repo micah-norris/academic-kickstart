@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Micah Norris
+name: Micah Leslie Norris
 
 # Username (this should match the folder name)
 authors:
