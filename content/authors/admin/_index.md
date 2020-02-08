@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Micah Norris is a first year MA student at Carleton's School of Indigenous and Canadian studies, with a specialization in heritage conservation. 
+Micah Norris is a first year MA student at Carleton's School of Indigenous and Canadian Studies, with a specialization in heritage conservation. 
