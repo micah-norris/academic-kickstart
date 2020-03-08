@@ -23,6 +23,7 @@ bio: My research interests include Canada's national heritage policy, the inters
 interests:
 - Canada's National Heritage Institutions
 - Culture and Conflict
+- Cultural Property Disputes
 - Repatriation of Objects
 - World Heritage
 
