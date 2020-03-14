@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "micahnorris@cmail.carleton.ca"
+email = micahnorris@cmail.carleton.ca
 phone = "888 888 88 88"
 
 # Address
@@ -93,7 +93,7 @@ address = {street = "Dunton Tower 1125 Colonel By Drive", city = "Ottawa", regio
 coordinates = {latitude = "45.382623", longitude = "75.699522"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
